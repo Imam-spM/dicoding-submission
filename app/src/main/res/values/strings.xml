@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mobile Legend</string>
+    <string name="about">About</string>
+    <string name="role">Role: Marksman</string>
+    <string name="intro">Deskripsi</string>
+    <string name="dummyintro">Claude adalah seorang marksman yang menyerang dengan senjata dan rekannya, Dexter. Ia memiliki skill yang bisa meningkatkan movementspeed dan skilldash. Berkat skillset-nya yang lincah, Claude menjadi salah satu marksman yang bisa mengincar hero backline dengan mudah.</string>
+</resources>
